@@ -2,8 +2,12 @@
 
 */__pycache__/
 
-*.pth
+/weights/*.pth
+!/weights/.gitkeep
 
-*.npy
+/AEs/**/*.npy
+!/AEs/**/.gitkeep
+
+.gitignore
 
 .DS_Store
