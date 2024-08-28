@@ -52,7 +52,7 @@ python run_orthogonal_pgd.py
 
 
 ## Citation
----
+
 If you like or use our work please cite us:
 ```
 @inproceedings{he2022your,
