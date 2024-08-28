@@ -8,4 +8,4 @@
 /AEs/**/*.npy
 !/AEs/**/.gitkeep
 
-**/.DS_Store
+/**/.DS_Store
