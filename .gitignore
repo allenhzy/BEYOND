@@ -2,6 +2,8 @@
 
 */__pycache__/
 
-weights/*.pth
+*.pth
 
-AEs/**/*.npy
+*.npy
+
+.DS_Store
